@@ -1,9 +1,1 @@
-# terraform
-#terraform2
-# terraform
-#terraform2
-# terraform
-#terraform2
-# terraform
-#terraform2
-shakti
+# How To Install Tearraform on the Linux System ##
